@@ -28,7 +28,7 @@
 </div>
 
 ## CONNECT
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROp-tVE-R6e5Uw_LRnOl1kC5MMXciei-j0VQ&s" alt="Linkedin" width="50" height="5"/>](https://gmail.com)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROp-tVE-R6e5Uw_LRnOl1kC5MMXciei-j0VQ&s" alt="Linkedin" width="50" height="50"/>](https://gmail.com)
 
 
 
