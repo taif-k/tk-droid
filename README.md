@@ -18,7 +18,10 @@
   <img src="https://miro.medium.com/v2/resize:fit:500/1*tOI6UC5EaS2fPItCesI-AQ.png" width="50" height="50"/>  
   <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" width="50" height="50"/>  
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqj9Ii13d6hx5a9kyLnC5A8A96LDSaSZv_w&s" width="50" height="50"/>  
-  <img src="" width="50" height="50"/>  
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIFiPWJcOeAPqj7PVWkedswcs2DpFPN5ek4g&s" width="50" height="50"/>  
+  <img src="https://visual-regresion-testing.firebaseapp.com/parceljs.c11a4bd0.png" width="50" height="50"/>
+  <img src="https://miro.medium.com/v2/resize:fit:600/1*N8qmsSNp1KaFneI1-FB3fw.png" width="50" height="50"/>
+  <img src="https://strapi.dhiwise.com/uploads/react_testing_libraries_and_tools_of_2022_4_0497c85e98.png" width="50" height="50"/>
   <img src="https://iconape.com/wp-content/files/ez/353342/png/javascript-logo.png" width="50" height="50"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/HTML5_oval_logo.png" width="50" height="50"/>
 </div>
