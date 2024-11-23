@@ -28,7 +28,9 @@
 </div>
 
 ## CONNECT
- You can contact me at mohd.taif.khan1@gmail.com
+ Linkedin: www.linkedin.com/in/taif-khan-14b404295
+ Gmail: mohd.taif.khan1@gmail.com  
+ 
 
 
 
