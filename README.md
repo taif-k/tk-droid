@@ -23,6 +23,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:600/1*N8qmsSNp1KaFneI1-FB3fw.png" width="50" height="50"/>
   <img src="https://strapi.dhiwise.com/uploads/react_testing_libraries_and_tools_of_2022_4_0497c85e98.png" width="50" height="50"/>
   <img src="https://iconape.com/wp-content/files/ez/353342/png/javascript-logo.png" width="50" height="50"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Microsoft_Office_2013-2019_logo_and_wordmark.svg/2560px-Microsoft_Office_2013-2019_logo_and_wordmark.svg.png" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/HTML5_oval_logo.png" width="50" height="50"/>
 </div>
 
