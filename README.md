@@ -28,8 +28,8 @@
 </div>
 
 ## CONNECT
- Linkedin: www.linkedin.com/in/taif-khan-14b404295  
- Gmail: mohd.taif.khan1@gmail.com  
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0nDUw6Xw2BI-a3d0704po0bp8iY5KH5fNlQ&s" width="50" height="50"/>: www.linkedin.com/in/taif-khan-14b404295  
+ <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0nDUw6Xw2BI-a3d0704po0bp8iY5KH5fNlQ&s](https://cdn.prod.website-files.com/5f15081919fdf673994ab5fd/63ed1f028c1c9e76de764490_Gmail%20Logo.svg)" width="50" height="50"/>: mohd.taif.khan1@gmail.com  
  
 
 
