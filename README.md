@@ -34,9 +34,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tk-droid&show_icons=true&count_private=true)  
 
-# GitHub Activity
-
-![GitHub Activity](https://github-readme-Activity.vercel.app/api?username=tk-droid&show_icons=true&count_private=true)
 
 
 
