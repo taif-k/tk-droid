@@ -28,8 +28,10 @@
 </div>
 
 ## CONNECT
+<div>
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROp-tVE-R6e5Uw_LRnOl1kC5MMXciei-j0VQ&s" width="60" height="60"/>  
  <img src="https://cdn.prod.website-files.com/5f15081919fdf673994ab5fd/63ed1f028c1c9e76de764490_Gmail%20Logo.svg" width="50" height="50"/>
+ </div>
  
 
 
