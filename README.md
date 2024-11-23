@@ -32,7 +32,6 @@
 # GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tk-droid&show_icons=true&count_private=true)  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tk-droid&count_private=true&langs_count=5)
 
 
