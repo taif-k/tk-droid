@@ -20,10 +20,10 @@
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2qUjvuCkgy2dS639FfzokycEV9BU9RWqq_I906KNB7reLxOGUcmYcCtAFyhsZeNynWyKqRPlmEs7Z-ylreRRVF1qn9Bl9ihL5oFDDYw" alt="babel" width="60" height="60"/>](https://babeljs.io/docs/)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTEjk3dEXGHWf3zOPwSP5hTx6NdlNcgXdtkg&s" alt="HTML" width="60" height="60"/>](https://www.w3schools.com/html/)
 [<img src="https://miro.medium.com/v2/resize:fit:500/1*tOI6UC5EaS2fPItCesI-AQ.png" alt="Redux" width="60" height="60"/>](https://redux.js.org/introduction/getting-started)
-[<img src="" alt="" width="60" height="60"/>]()
-[<img src="" alt="" width="60" height="60"/>]()
-[<img src="" alt="" width="60" height="60"/>]()
-[<img src="" alt="" width="60" height="60"/>]()
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVgHWDyjwN9qZsPChFzc5PRfOOOqbfgXqR3w&s" alt="tailwind" width="60" height="60"/>](https://tailwindcss.com/docs/installation)
+[<img src="https://delta-dev-software.fr/wp-content/uploads/2024/05/CSS-Logo.png" alt="css" width="60" height="60"/>](https://www.w3schools.com/css/)
+[<img src="" alt="Vscode" width="60" height="60"/>]()
+[<img src="" alt="MsOffice" width="60" height="60"/>]()
 [<img src="" alt="" width="60" height="60"/>]()
 
 ## CONNECT
