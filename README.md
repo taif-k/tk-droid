@@ -29,7 +29,9 @@
 
 ## CONNECT
 <div>
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROp-tVE-R6e5Uw_LRnOl1kC5MMXciei-j0VQ&s" width="60" height="60"/>  
+ <img src="" width="60" height="60"/>  
+[![Linkedin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROp-tVE-R6e5Uw_LRnOl1kC5MMXciei-j0VQ&s)](mailto:mohd.taif.khan1@gmail.com)
+
  <img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202010/Google_Gmail_New_Logo_India_To_1200x768.jpeg" width="60" height="60"/>
  </div>
  
