@@ -32,7 +32,7 @@
 
 # GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tk-droide&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tk-droid&show_icons=true&count_private=true)
 
 
 
