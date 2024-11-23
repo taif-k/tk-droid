@@ -1,7 +1,7 @@
 
 # Hi, My name is Mohd Taif Khan  
 
-Frontend Web Developer(ReactJs)
+## Frontend Web Developer(ReactJs)
 
 🌍  I'm based in New Delhi, India  
 🖥️  See my portfolio at  
