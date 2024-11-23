@@ -28,7 +28,7 @@
 </div>
 
 ## CONNECT
- Linkedin: www.linkedin.com/in/taif-khan-14b404295
+ Linkedin: www.linkedin.com/in/taif-khan-14b404295  
  Gmail: mohd.taif.khan1@gmail.com  
  
 
