@@ -21,7 +21,7 @@
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTEjk3dEXGHWf3zOPwSP5hTx6NdlNcgXdtkg&s" alt="HTML" width="60" height="60"/>](https://www.w3schools.com/html/)
 [<img src="https://miro.medium.com/v2/resize:fit:500/1*tOI6UC5EaS2fPItCesI-AQ.png" alt="Redux" width="60" height="60"/>](https://redux.js.org/introduction/getting-started)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVgHWDyjwN9qZsPChFzc5PRfOOOqbfgXqR3w&s" alt="tailwind" width="60" height="60"/>](https://tailwindcss.com/docs/installation)
-[<img src="https://delta-dev-software.fr/wp-content/uploads/2024/05/CSS-Logo.png" alt="css" width="60" height="60"/>](https://www.w3schools.com/css/)
+[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC_pqc4MwJZdVygwY49rBa1U0ndZZKBWU9PA&s" alt="css" width="60" height="60"/>](https://www.w3schools.com/css/)
 [<img src="" alt="Vscode" width="60" height="60"/>]()
 [<img src="" alt="MsOffice" width="60" height="60"/>]()
 [<img src="" alt="" width="60" height="60"/>]()
