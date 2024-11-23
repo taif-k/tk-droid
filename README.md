@@ -29,8 +29,7 @@
 
 ## CONNECT
 
- <img src="" width="60" height="60"/>  
-[![Linkedin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROp-tVE-R6e5Uw_LRnOl1kC5MMXciei-j0VQ&s)]
+![Linkedin](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROp-tVE-R6e5Uw_LRnOl1kC5MMXciei-j0VQ&s)
 
 
 
