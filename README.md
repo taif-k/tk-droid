@@ -11,7 +11,8 @@
 ⚡  I just Believe on Process  
 
 ## SKILLS
-![js](https://iconape.com/wp-content/files/ez/353342/png/javascript-logo.png)![html](https://upload.wikimedia.org/wikipedia/commons/d/de/HTML5_oval_logo.png)
+![js](https://iconape.com/wp-content/files/ez/353342/png/javascript-logo.png)  
+![html](https://upload.wikimedia.org/wikipedia/commons/d/de/HTML5_oval_logo.png)
 ## CONNECT
 
 
