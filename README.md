@@ -6,7 +6,7 @@
 🌍  I'm based in New Delhi, India.  
 🧠  I'm constantly enhancing my skills in React js.  
 🖥️  [Click here to see my Food Ordering App](https://foodorderappbytaif.netlify.app/)     
-⚡  Innovate, Collaborate and Elevate
+⚡  Let's discuss things.
 
 ## SKILLS
 
