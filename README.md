@@ -25,7 +25,7 @@
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3w5v3NHCaW5Ig1eG2mWbruAG3_rk_4_tJtg&s" alt="Git" width="50"/>](https://git-scm.com/)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqj9Ii13d6hx5a9kyLnC5A8A96LDSaSZv_w&s" alt="GitHub" width="50"/>](https://github.com/)
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXw1e_BUF94tqvmJWuXqHzbCG-nP0ONdK4rA&s" alt="VS Code" width="50"/>](https://code.visualstudio.com/)
-[<img src="https://wac-cdn.atlassian.com/dam/jcr:05d06361-b0fe-442e-9a0f-04e21698f6b0/Jira%20Software_128.png" alt="Jira" width="50"/>](https://www.atlassian.com/software/jira)
+[<img src="https://wac-cdn.atlassian.com/dam/jcr:05d06361-b0fe-442e-9a0f-04e21698f6b0/Jira%20Software_128.png" alt="Jira" width="50"/>](https://confluence.atlassian.com/jira)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Agile_logo.svg" alt="Agile" width="50"/>](https://www.atlassian.com/agile)
 
 ---
