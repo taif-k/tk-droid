@@ -1,5 +1,5 @@
 
-# Hi, My name is Mohd Taif Khan  
+# I’m Taif — fueled by caffeine and curiosity
 
 🌍  I'm based in New Delhi, India.  
 🧠  Always Alt + Tabbing between projects, docs, and ideas.  
