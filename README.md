@@ -25,8 +25,9 @@
 [<img src="https://img.icons8.com/color/48/git.png" alt="Git" width="50"/>](https://git-scm.com/)
 [<img src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub" width="50"/>](https://github.com/)
 [<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="50"/>](https://code.visualstudio.com/)
-[<img src="https://images.seeklogo.com/logo-png/46/1/jira-logo-png_seeklogo-468163.png" alt="Jira" width="50"/>](https://www.atlassian.com/software/jira)
-[<img src="https://thumbs.dreamstime.com/b/agile-icon-methodology-vector-development-scrum-flexible-software-logo-concept-251477234.jpg" alt="Agile" width="50"/>](https://www.atlassian.com/agile)
+[<img src="https://wac-cdn.atlassian.com/dam/jcr:1c1db04c-170b-47a5-88d9-ecf8e4c89b46/Jira%20Software%20blue.svg?cdnVersion=684" alt="Jira" width="50"/>](https://www.atlassian.com/software/jira)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Agile_Manifesto_icon.svg/1200px-Agile_Manifesto_icon.svg.png" alt="Agile" width="50"/>](https://www.atlassian.com/agile)
+
 
 
 ### 🧠 Languages
