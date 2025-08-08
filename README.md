@@ -2,39 +2,43 @@
 
 🌍  Based in New Delhi, India  
 🧠  Always Alt + Tabbing between ideas, projects, and docs  
-🎯  Frontend Developer — crafting clean UIs, writing maintainable code, and diving deeper every day  
-🚧  Currently learning backend development (Node.js + MongoDB incoming 🚀)
+💻  Aspiring Full-Stack Developer — focused on the MERN stack, currently diving into backend  
+🧱  Background in C and Python | Frontend specialist evolving into a complete dev  
 
 ⚡ Let’s talk code, coffee, or chaos.
 
 ---
 
-## 🛠️ SKILLS
+## 🛠️ TECH STACK
 
 ### 🎨 Frontend
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwr7hezbSLIzt0x_LcGYkOF0z4UKsj6QTEZA&s" alt="JavaScript" width="50"/>](https://www.w3schools.com/js/)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-TLdbAqtzJd2i6o0TLdIxnQUzhKNKb58koA&s" alt="React" width="50"/>](https://react.dev/learn)
-[<img src="https://miro.medium.com/v2/resize:fit:500/1*tOI6UC5EaS2fPItCesI-AQ.png" alt="Redux" width="50"/>](https://redux.js.org/)
-[<img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="50"/>](https://getbootstrap.com/)
-[<img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="SASS/SCSS" width="50"/>](https://sass-lang.com/)
-[<img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype-white.e0b2bd6155fa88b2f372.svg" alt="Tailwind" width="50"/>](https://tailwindcss.com/)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTEjk3dEXGHWf3zOPwSP5hTx6NdlNcgXdtkg&s" alt="HTML" width="50"/>](https://www.w3schools.com/html/)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC_pqc4MwJZdVygwY49rBa1U0ndZZKBWU9PA&s" alt="CSS" width="50"/>](https://www.w3schools.com/css/)
+[<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="50"/>](https://www.javascript.com/)
+[<img src="https://img.icons8.com/officel/80/react.png" alt="React" width="50"/>](https://react.dev/)
+[<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="50"/>](https://redux.js.org/)
+[<img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="50"/>](https://getbootstrap.com/)
+[<img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="SASS/SCSS" width="50"/>](https://sass-lang.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind" width="50"/>](https://tailwindcss.com/)
+[<img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" width="50"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://img.icons8.com/color/48/css3.png" alt="CSS" width="50"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-### ⚙️ Workflow & Tools
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3w5v3NHCaW5Ig1eG2mWbruAG3_rk_4_tJtg&s" alt="Git" width="50"/>](https://git-scm.com/)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqj9Ii13d6hx5a9kyLnC5A8A96LDSaSZv_w&s" alt="GitHub" width="50"/>](https://github.com/)
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXw1e_BUF94tqvmJWuXqHzbCG-nP0ONdK4rA&s" alt="VS Code" width="50"/>](https://code.visualstudio.com/)
-[<img src="https://wac-cdn.atlassian.com/dam/jcr:05d06361-b0fe-442e-9a0f-04e21698f6b0/Jira%20Software_128.png" alt="Jira" width="50"/>](https://confluence.atlassian.com/jira)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Agile_logo.svg" alt="Agile" width="50"/>](https://www.atlassian.com/agile)
+### 🔧 Tools & Workflow
+[<img src="https://img.icons8.com/color/48/git.png" alt="Git" width="50"/>](https://git-scm.com/)
+[<img src="https://img.icons8.com/ios-filled/50/github.png" alt="GitHub" width="50"/>](https://github.com/)
+[<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" width="50"/>](https://code.visualstudio.com/)
+[<img src="https://seeklogo.com/images/J/jira-logo-C71F8C0324-seeklogo.com.png" alt="Jira" width="50"/>](https://www.atlassian.com/software/jira)
+[<img src="https://www.pngall.com/wp-content/uploads/13/Agile-Methodology-PNG-HD-Image.png" alt="Agile" width="50"/>](https://www.atlassian.com/agile)
+
+### 🧠 Languages
+[<img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="50"/>](https://www.python.org/)
+[<img src="https://img.icons8.com/color/48/c-programming.png" alt="C" width="50"/>](https://en.wikipedia.org/wiki/C_(programming_language))
 
 ---
 
 ## 📈 Currently Learning
 
-- 🟢 **Node.js** & **Express.js**
-- 🟢 **MongoDB** and backend APIs
-- 🧠 Strengthening full-stack architecture understanding
+- 🟢 **Node.js**, **Express.js** & **MongoDB** for backend development  
+- 🧠 Strengthening MERN stack knowledge with hands-on projects and API design  
+- 🌐 Exploring full-stack architecture and deployment workflows  
 
 ---
 
